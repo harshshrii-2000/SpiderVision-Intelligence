@@ -1,0 +1,6 @@
+{
+  "name": "SpiderVision Intelligence",
+  "description": "See Every Threat Before It Strikes — A cybersecurity threat intelligence and account protection dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
